@@ -1,2 +1,2 @@
-# GGR376-Final-Project
+# Spatial Analysis of Diabetes in the Census Tracts across Toronto, Peel, and York region
 
